@@ -1,0 +1,22 @@
+body {
+  background-color: #007139;
+  color: white;
+}
+header {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+}
+.carta {
+  width: 5%;
+  position: relative;
+  margin-left: -50px;
+  left: 3%;
+}
+
+#cartasJugador,
+#cartasComputador {
+  height: 150px;
+}
